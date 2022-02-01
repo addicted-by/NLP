@@ -1,6 +1,6 @@
 # NLP (Natural Language Processing) Projects
 
-- [ ] Text Polarity
+- [X] Text Polarity
 
 - [ ] Text generation
 
