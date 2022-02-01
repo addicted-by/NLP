@@ -1,9 +1,9 @@
 # NLP (Natural Language Processing) Projects
 
-[x] Text Polarity
+- [ ] Text Polarity
 
-[ ] Text generation
+- [ ] Text generation
 
-[ ] PoS tagging
+- [ ] PoS tagging
 
-[ ] Blunt assistant
+- [ ] Blunt assistant
